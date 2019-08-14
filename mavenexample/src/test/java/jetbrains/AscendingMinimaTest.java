@@ -4,10 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class AppTest {
-
+public class AscendingMinimaTest {
 
     @Test
-    public void main() {
+    public void ascendingMinima() {
     }
 }

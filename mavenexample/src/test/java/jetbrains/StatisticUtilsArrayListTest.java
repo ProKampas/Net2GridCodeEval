@@ -4,10 +4,10 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class AppTest {
+public class StatisticUtilsArrayListTest {
 
 
     @Test
-    public void main() {
+    public void minValue() {
     }
 }
